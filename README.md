@@ -7,7 +7,7 @@ projects.
 ## Installation
 
 1. Build using the Swift Package Manager with `swift build`
-1. Copy the executable to a location in your path, e.g. `.build/debug/JiraPlot /usr/local/bin/jiraPlot`
+1. Copy the executable to a location in your path, e.g. `cp .build/debug/JiraPlot /usr/local/bin/jiraPlot`
 
 ## Usage
 
