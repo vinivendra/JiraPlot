@@ -1,8 +1,6 @@
 # JiraPlot
 
-A command-line tool to generate graphs from Jira issues. Created to be compatible with a few personal and
-professional projects worked on by me, but available for anyone to tweak if needed and use with their own
-projects.
+A command-line tool to generate graphs from Jira issues, showing which issues block which, which issues are done, and which are planned on future sprints. Created to be compatible with a few personal and professional projects worked on by me, but available for anyone to tweak if needed and use with their own projects.
 
 ## Installation
 
